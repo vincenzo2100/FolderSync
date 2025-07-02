@@ -1,0 +1,14 @@
+f:\FolderSync\bin\Debug\net8.0\FolderSync.exe
+F:\FolderSync\bin\Debug\net8.0\FolderSync.deps.json
+F:\FolderSync\bin\Debug\net8.0\FolderSync.runtimeconfig.json
+f:\FolderSync\bin\Debug\net8.0\FolderSync.dll
+f:\FolderSync\bin\Debug\net8.0\FolderSync.pdb
+f:\FolderSync\obj\Debug\net8.0\FolderSync.GeneratedMSBuildEditorConfig.editorconfig
+f:\FolderSync\obj\Debug\net8.0\FolderSync.AssemblyInfoInputs.cache
+f:\FolderSync\obj\Debug\net8.0\FolderSync.AssemblyInfo.cs
+f:\FolderSync\obj\Debug\net8.0\FolderSync.csproj.CoreCompileInputs.cache
+f:\FolderSync\obj\Debug\net8.0\FolderSync.dll
+f:\FolderSync\obj\Debug\net8.0\refint\FolderSync.dll
+f:\FolderSync\obj\Debug\net8.0\FolderSync.pdb
+F:\FolderSync\obj\Debug\net8.0\FolderSync.genruntimeconfig.cache
+F:\FolderSync\obj\Debug\net8.0\ref\FolderSync.dll
